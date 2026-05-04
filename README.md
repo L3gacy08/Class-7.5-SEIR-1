@@ -16,9 +16,6 @@ A VM instance was created on Google Compute Engine and configured using the prov
 
 The gate script checked that:
 
-<img width="577" height="175" alt="gate_gcp_vm_http_ok sh result vm - regiano" src="https://github.com/user-attachments/assets/b4e7197d-fb47-433b-8412-01756945390b" />
-
-
 - The homepage was reachable over HTTP
 - The `/healthz` endpoint returned `ok`
 - The `/metadata` endpoint returned valid JSON
@@ -28,6 +25,8 @@ The gate script checked that:
 ## Result
 
 The deployment passed all checks.
+
+<img width="577" height="175" alt="gate_gcp_vm_http_ok sh result vm - regiano" src="https://github.com/user-attachments/assets/b4e7197d-fb47-433b-8412-01756945390b" />
 
 ```text
 Lab 1 Gate Result: PASS
