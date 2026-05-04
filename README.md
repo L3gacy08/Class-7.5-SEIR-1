@@ -28,10 +28,6 @@ The deployment passed all checks.
 
 <img width="577" height="175" alt="gate_gcp_vm_http_ok sh result vm - regiano" src="https://github.com/user-attachments/assets/b4e7197d-fb47-433b-8412-01756945390b" />
 
-```text
-Lab 1 Gate Result: PASS
-```
-
 ## Notes
 
 The VM is running successfully and the required HTTP endpoints are responding as expected.
