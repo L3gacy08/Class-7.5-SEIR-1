@@ -4,6 +4,8 @@ A VM instance was created on Google Compute Engine and configured using the prov
 
 ## VM Details
 
+<img width="1637" height="181" alt="vm instance - regiano-vm" src="https://github.com/user-attachments/assets/b5a145d1-c1e8-4044-bef1-790091d42145" />
+
 - **VM name:** `regiano-vm`
 - **Zone:** `europe-west1-c`
 - **External IP:** `104.155.61.31`
@@ -13,6 +15,9 @@ A VM instance was created on Google Compute Engine and configured using the prov
 ## What Was Tested
 
 The gate script checked that:
+
+<img width="577" height="175" alt="gate_gcp_vm_http_ok sh result vm - regiano" src="https://github.com/user-attachments/assets/b4e7197d-fb47-433b-8412-01756945390b" />
+
 
 - The homepage was reachable over HTTP
 - The `/healthz` endpoint returned `ok`
