@@ -56,4 +56,4 @@ At the end I ran date && hostname && whoami to show the final proof from my comp
 
 
 # Final note
-The lab worked from start to finish. Terraform created the resources, I verified them in GCP, then Terraform destroyed them and I verified they were removed.
+The lab worked from start to finish. Terraform created the resources, I checked them in gcp, then Terraform destroy, destroy the resources and I checked, if they were removed.
