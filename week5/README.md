@@ -12,12 +12,12 @@ I worked with terraform and used the Git Bash terminal and worked in the folder:
 
 The commands that were used were:
 
-Terraform init
-Terraform validate
-Terraform plan
-Terraform apply
-Terraform destroy
-date && hostname && whoami
+- Terraform init
+- Terraform validate
+- Terraform plan
+- Terraform apply
+- Terraform destroy
+- date && hostname && whoami
 
 
 # The Overview 
